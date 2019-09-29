@@ -1,0 +1,21 @@
+# Eclipse
+.classpath
+.project
+.settings/
+ 
+# Intellij
+.idea/
+*.iml
+*.iws
+ 
+# Mac
+.DS_Store
+ 
+# Maven
+/logs/
+/target/
+/doc/
+allure-results/
+/bin/
+/Reports/
+/src/test/resources/webdriver/
